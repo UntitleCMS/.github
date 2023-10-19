@@ -2,9 +2,11 @@
 
 ![logo of beta blog](https://p.villsource.tk/assets/images/logo-main.svg)
 
+This Organization is for publishing our senior project computing@kku
+
 Beta blog is a web blog for developers who want to create a content
 or turorial content with embedded online compilers.
-[Demo](https://p.villsource.tk/)
+[Demo](https://p.villsource.tk/).
 
 ## Supported programming languages
 
