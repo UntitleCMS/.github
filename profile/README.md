@@ -1,7 +1,5 @@
 # Beta blog
 
-![logo of beta blog](https://blog.villsource.net/assets/images/logo-main.svg)
-
 This Organization is for publishing our senior project computing@kku [Download Report](https://github.com/UntitleCMS/.github/blob/main/BetaBlog-Report.pdf)
 
 Beta blog is a web blog for developers who want to create a content
